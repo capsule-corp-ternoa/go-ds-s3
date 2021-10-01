@@ -5,6 +5,7 @@ require (
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/ipfs/go-datastore v0.4.6
 	github.com/ipfs/go-ipfs v0.9.1
+	github.com/libp2p/go-libp2p-core v0.9.0
 )
 
-go 1.15
+go 1.16
